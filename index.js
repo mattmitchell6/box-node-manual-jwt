@@ -1,3 +1,7 @@
+/**
+ * Add your own Box config variables to sample.local.js to and change
+ * the file's names to local.js
+ **/
 const BoxConfig = require('config').boxAppSettings;
 const JWT = require('jsonwebtoken');
 const axios = require('axios');
